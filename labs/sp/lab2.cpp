@@ -21,7 +21,7 @@ public:
 	void input(char* filename);
 };
 
-int main () {
+int main (){
 	array1 a1(10);
 	array2 a2(10);
 

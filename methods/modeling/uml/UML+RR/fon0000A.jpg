@@ -1,0 +1,146 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title>Перспективные технологии :: Главная</title>
+<link rel="stylesheet" href="1.css" type="text/css">
+</head>
+<body bgcolor="#E5E5E5" text="#000000">
+<table width="100%" cellspacing="0" cellpadding="1" border="0" align="center" bgcolor="#98AAB1">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" cellspacing="0" cellpadding="10" border="0" align="center" bgcolor="#FFFFFF" height="100%">
+        <tr> 
+          <td valign="top"> 
+            <table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tr> 
+                <td align="center"><a href="index.html"><img src="images/logo.gif" border="0" alt="Технология разработки качественного ПО"  width="200" height="91"></a></td>
+              </tr>
+              <tr> 
+                <td align="center"><img src="images/trans.gif" width="10" height="10"></td>
+              </tr>
+              <tr> 
+                <td align="center"><table border="0" cellspacing="0" cellpadding="0">
+                    <tr> 
+                      <td background="images/fon_2.gif" width="200"> <table border="0" cellspacing="0" cellpadding="0">
+                          <tr valign="top"> 
+                            <td align="left" width="8"><img src="images/1_.gif" width="8" height="8" alt=""></td>
+                            <td background="images/fon_1_t.gif"><img src="images/trans.gif" width="184" height="8" alt=""></td>
+                            <td align="right" width="8"><img src="images/2_.gif" width="8" height="8" alt=""></td>
+                          </tr>
+                          <tr> 
+                            <td align="left" width="8" background="images/fon_1_l.gif"><img src="images/trans.gif" width="1" height="1" alt=""></td>
+                            <td valign="top"> <p class="zag2">ОШИБКА 404</p>
+                              <p class="txt">Видимо это не совсем то, что вы хотели 
+                                увидеть, но адреса, который вы набрали, на этом 
+                                сервере не существует.</p>
+                              <p class="txt">Если вы хотите что-либо найти на 
+                                нашем сервере, то поищите это по нишеперечисленным 
+                                ссылкам. </p>
+                              </td>
+                            <td align="right" width="8" background="images/fon_1_r.gif"><img src="images/trans.gif" width="1" height="1" alt=""></td>
+                          </tr>
+                          <tr valign="bottom"> 
+                            <td align="left" width="8"><img src="images/4_.gif" width="8" height="8" alt=""></td>
+                            <td background="images/fon_1_b.gif"><img src="images/trans.gif" width="184" height="8" alt=""></td>
+                            <td align="right" width="8"><img src="images/3_.gif" width="8" height="8" alt=""></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr> 
+                <td align="center"><img src="images/trans.gif" width="10" height="10"></td>
+              </tr>
+              <tr> 
+                <td valign="top" align="center"> 
+                  <!-- Начало меню -->
+<table border="0" cellspacing="0" cellpadding="0" background="images/fon_2.gif">
+	<tr>
+		<td background="images/fon_2.gif" width="200">
+			<table border="0" cellspacing="0" cellpadding="0">
+				<tr valign="top">
+					<td align="left" width="8"><img src="images/1_.gif" width="8" height="8" alt=""></td>
+					<td background="images/fon_1_t.gif"><img src="images/trans.gif" width="184" height="8" alt=""></td>
+					<td align="right" width="8"><img src="images/2_.gif" width="8" height="8" alt=""></td>
+				</tr>
+				<tr>
+					<td align="left" width="8" background="images/fon_1_l.gif"><img src="images/trans.gif" width="1" height="1" alt=""></td>
+					<td valign="top">
+						<p class="date"><b>О ПРОЕКТЕ:</b></p>
+						<p class="button"><a href="index.html"><img src="images/str.gif" width="8" height="10" border="0" alt="> ">На главную</a></p>
+						<p class="button"><a href="for_it-manager.html"><img src="images/str.gif" width="8" height="10" border="0" alt="> ">Для IT-менеджеров</a></p>
+						<p class="button"><a href="themes.html"><img src="images/str.gif" width="8" height="10" border="0" alt="> ">Работа над проектом</a></p>
+						<p class="button"><a href="how_to_begin_a_member.html"><img src="images/str.gif" width="8" height="10" border="0" alt="> ">Как присоединиться</a></p>
+						<p class="button"><a href="member.html"><img src="images/str.gif" width="8" height="10" border="0" alt="> ">Участники проекта</a></p>
+						<p class="date"><b>ДОКУМЕНТЫ:</b></p>
+						<p class="button"><a href="catalog.html?id=3&type=article"><img src="images/str.gif" width="8" height="10" border="0" alt="> ">Наши разработки</a></p>
+						<p class="button"><a href="catalog.html?id=2&type=article"><img src="images/str.gif" width="8" height="10" border="0" alt="> ">Документы проекта</a></p>
+						<!--<p class="button"><a href="http://quality.stability.ru/catalog.html?tid=11"><img src="images/str.gif" width="8" height="10" border="0" alt="> ">Техническое задание</a></p>-->
+						<p class="date"><b>ПУБЛИКАЦИИ:</b></p>
+						<p class="button"><a href="catalog.html?id=1"><img src="images/str.gif" width="8" height="10" border="0" alt="> ">Рубрикатор</a></p>
+						<p class="date"><b>ОбЩЕНИЕ:</b></p>
+						<p class="button"><a href="board/index.html"><img src="images/str.gif" width="8" height="10" border="0" alt="> ">Форум</a></p>
+						<p class="button"><a href="http://quality.stability.ru/board/viewtopic.html?t=4"><img src="images/str.gif" width="8" height="10" border="0" alt="> ">Гостевая книга</a></p>
+						<p class="date"><b>ССЫЛКИ:</b></p>
+						<p class="button"><a href="links.html"><img src="images/str.gif" width="8" height="10" border="0" alt="> ">Публикации в Интернет</a></p>
+						<p class="button"><a href="partners.html"><img src="images/str.gif" width="8" height="10" border="0" alt="> ">Партнеры</a></p>
+						<p class="button"><a href="anything.html"><img src="images/str.gif" width="8" height="10" border="0" alt="> ">Разное</a></p>
+					</td>
+					<td align="right" width="8" background="images/fon_1_r.gif"><img src="images/trans.gif" width="1" height="1" alt=""></td>
+				</tr>
+				<tr valign="bottom">
+					<td align="left" width="8"><img src="images/4_.gif" width="8" height="8" alt=""></td>
+					<td background="images/fon_1_b.gif"><img src="images/trans.gif" width="184" height="8" alt=""></td>
+					<td align="right" width="8"><img src="images/3_.gif" width="8" height="8" alt=""></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<!-- Конец меню -->                </td>
+              </tr>
+            </table>
+            <p align="center" class="copy"> © 2002. Copyright. Perspective Technologies. <a href="http://www.1web.ru/" class="copy">Дизайн и техническая поддержка - Студия веб-дизайна "Силуэт"</a>. <a href="http://www.stability.ru/" class="copy">Хостинг – хостинг-провайдер Stability Systems</a>.</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<img src="images/trans.gif" width="200" height="10"><br>            <!--table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr valign="top"> 
+                <td align="left" width="8"><img src="images/1_.gif" width="8" height="8"></td>
+                <td background="images/fon_1_t.gif"><img src="images/trans.gif" width="184" height="8"></td>
+                <td align="right" width="8"><img src="images/2_.gif" width="8" height="8"></td>
+              </tr>
+              <tr> 
+                <td align="left" width="8" background="images/fon_1_l.gif"><img src="images/trans.gif" width="1" height="1"></td>
+                      <td width="100%" valign="top" align="center"-->
+                        <!-- PROext: Top 1000 Begin -->
+                        <a href="http://top.proext.com/go.cgi?u=5342" target=_top>
+                        <img src="http://top.proext.com/c.cgi?u=5342&f=1" width=88 height=31 border=0 alt="PROext: Top 1000"></a>
+                        <!-- PROext: Top 1000 End -->
+                        <!--begin of Top100 logo-->
+                        <a href="http://top100.rambler.ru/top100/"> <img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-gray2.gif" alt="Rambler's Top100" width=88 height=31 border=0></a> 
+                        <!--end of Top100 logo -->
+                        <a href="http://www.cnews.ru"><img src="http://pics.rbc.ru/img/cnews/cnews.gif" alt="CNews: Новости | e-Business | Hi-Tech | Telecom" border=0 width=88 height=31></a>
+                        <!-- Begin ProtoPlex TOP-100 -->
+                        <a href="http://top.protoplex.ru/cgi-bin/?showid=2166">
+                        <script language=JavaScript>
+                        var d,s;
+                        d=document;s=screen;
+                        d.write('<img src=http://top.protoplex.ru/cgi-bin/image.fcgi?id=2166&type=ВАШ ВЫБОР&random='+Math.random()+'&refpage='+escape(d.referrer)+'&screen='+s.width+'x'+s.height+' alt="ProtoPlex TOP-100: борьба лидеров!" width=1 height=1 border=0>');
+                        </script>
+                        </a>
+                        <!-- End ProtoPlex TOP-100 -->
+                      <!--/td>
+                <td align="right" width="8" background="images/fon_1_r.gif"><img src="images/trans.gif" width="1" height="1"></td>
+              </tr>
+              <tr valign="bottom"> 
+                <td align="left" width="8"><img src="images/4_.gif" width="8" height="8"></td>
+                <td background="images/fon_1_b.gif"><img src="images/trans.gif" width="184" height="8"></td>
+                <td align="right" width="8"><img src="images/3_.gif" width="8" height="8"></td>
+              </tr>
+            </table--></body>
+</html>
